@@ -64,4 +64,4 @@ Run `browser-test-prompts.md` in fresh agent sessions with the starter open. Sco
 
 ## License
 
-No license file is included in this repository.
+MIT © 2026 TonyD2F — see `LICENSE`.
